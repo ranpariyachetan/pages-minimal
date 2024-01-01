@@ -12,3 +12,6 @@ EDA helps to understand the data and relation between various feature values in 
 1. [Wikipedia](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 2. [GeeksForGeeks](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/)
 3. [NIST](https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm)
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ranpariyachetan/eda_project)
