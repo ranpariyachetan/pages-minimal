@@ -14,4 +14,6 @@ EDA helps to understand the data and relation between various feature values in 
 3. [NIST](https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm)
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ranpariyachetan/eda_project)
+### EDA Project
+
+[![EDA Project on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ranpariyachetan/eda_project)
