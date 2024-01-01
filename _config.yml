@@ -1,6 +1,16 @@
-title: Minimal theme
+title: Chetan Ranpariya
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+<p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/chetan-ranpariya/">LinkedIn</a> |
+  <a href="https://github.com/ranpariyachetan">GitHub</a>
+ 
+  <br>
+  I am a software professional working as a Principal Software Engineer at Autodesk.
+  Recently I developed interest in Machine Learning and AI which is driving the industry very fast.
+  I am currently exploring Machine Learning and intent to expand my technical horizon.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
